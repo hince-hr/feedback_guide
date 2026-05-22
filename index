@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>평가 면담 가이드 — 비바웨이브</title>
+<title>평가 피드백 가이드 — 비바웨이브</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -374,44 +374,44 @@
 
 <!-- NAV -->
 <nav>
-  <a href="#top" class="nav-brand">비바웨이브 평가 면담 가이드</a>
+  <a href="#top" class="nav-brand">비바웨이브 인사평가 피드백 가이드</a>
   <div class="nav-links">
-    <a class="nav-link" href="#before">📋 평가 전</a>
-    <a class="nav-link" href="#during">💬 면담 진행</a>
+    <a class="nav-link" href="#before">📋 피드백 전</a>
+    <a class="nav-link" href="#during">💬 피드백 진행</a>
     <a class="nav-link" href="#types">🔍 반응 유형</a>
     <a class="nav-link" href="#faq">❓ FAQ</a>
-    <a class="nav-link" href="#after">✅ 면담 후</a>
+    <a class="nav-link" href="#after">✅ 피드백 후</a>
   </div>
   <a href="#top" class="home-btn">↑ 맨 위로</a>
 </nav>
 
 <!-- HERO -->
 <div id="top" class="hero">
-  <div class="hero-badge">평가 면담 가이드 · 피플팀</div>
-  <h1>좋은 면담 하나가<br>팀 문화를 바꿉니다</h1>
-  <p>등급을 전달하는 자리가 아닙니다.<br>팀원과 신뢰를 쌓고, 다음 방향을 함께 그리는 대화입니다.</p>
+  <div class="hero-badge">인사평가 피드백 가이드</div>
+  <h1>비바웨이브<br>인사평가 피드백 가이드</h1>
+  <p>피드백은 등급을 통보하기보다는<br>팀원과 결과에 대해 얼라인하고, 다음 성장 방향을 함께 그리는 과정입니다.</p>
   <div class="hero-nav">
     <a href="#before" class="hero-btn primary">📋 평가 전 준비</a>
-    <a href="#during" class="hero-btn secondary">💬 면담 진행</a>
-    <a href="#after" class="hero-btn secondary">✅ 면담 후 마무리</a>
+    <a href="#during" class="hero-btn secondary">💬 피드백 진행</a>
+    <a href="#after" class="hero-btn secondary">✅ 피드백 후 마무리</a>
   </div>
 </div>
 
 <div class="page">
 
-  <!-- ══════ 1. 평가 전 ══════ -->
+  <!-- ══════ 1. 피드백 전 ══════ -->
   <div class="section" id="before">
-    <div class="section-label">01 — 평가 전</div>
+    <div class="section-label">01 — 피드백 전</div>
     <div class="section-title">준비하기</div>
-    <div class="section-desc">준비한 만큼 면담이 달라집니다. 근거 없이 들어가면 팀원은 결과를 감정으로만 받아들이고, 리더는 방어적인 대화에 끌려다니게 됩니다.</div>
+    <div class="section-desc">피드백의 퀄리티와 수용성을 높이기 위한 사전 준비는 필수입니다. 근거 없이 들어가면 팀원은 결과를 감정적으로 받아들이게 되고, 리더는 방어적인 대화만 응답하게 될 수 있습니다.</div>
 
-    <!-- 면담이 만드는 것 -->
-    <div class="sub-title">💡 면담이 만드는 것</div>
+    <!-- 피드백이 만드는 것 -->
+    <div class="sub-title">💡 피드백이 만드는 것</div>
     <div class="why-grid">
       <div class="why-card">
         <div class="why-icon">🤝</div>
         <div class="why-label">신뢰</div>
-        <div class="why-desc">팀원은 "공정하게 봐줬나"를 가장 먼저 확인합니다. 리더가 얼마나 세심히 관찰했는지, 그게 면담에서 드러납니다.</div>
+        <div class="why-desc">팀원은 "공정하게 봐줬나"를 가장 먼저 확인합니다. 리더가 얼마나 세심히 관찰했는지, 그게 피드백에서 드러납니다.</div>
       </div>
       <div class="why-card">
         <div class="why-icon">🧘</div>
@@ -421,12 +421,12 @@
       <div class="why-card">
         <div class="why-icon">🎯</div>
         <div class="why-label">성장 방향</div>
-        <div class="why-desc">"다음 분기에 뭘 해야 하는지"를 같이 그려주는 대화입니다. 방향 없이 등급만 남으면 팀원은 서운함만 안고 나갑니다.</div>
+        <div class="why-desc">"다음 기간동안 뭘 해야 하는지"를 같이 그려주는 대화입니다. 성장 방향 없이 과거에 대한 결과만 남으면 팀원은 서운함만 안고 나갑니다.</div>
       </div>
       <div class="why-card">
         <div class="why-icon">🔗</div>
         <div class="why-label">조직 결속</div>
-        <div class="why-desc">면담 품질이 리더십 신뢰도를 결정합니다. 팀원은 평가 결과보다 면담 태도를 더 오래 기억합니다.</div>
+        <div class="why-desc">피드백 품질이 리더십 신뢰도를 결정합니다. 피드백 태도가 함께 일하는 팀원의 업무 태도에 영향을 미칩니다.</div>
       </div>
     </div>
 
@@ -434,7 +434,7 @@
 
     <!-- 팀원의 머릿속 질문 -->
     <div class="sub-title">🧠 팀원의 머릿속 질문</div>
-    <div class="section-desc" style="margin-bottom:1rem;">평가 결과를 받은 팀원은 대부분 아래 여섯 가지를 생각합니다. 미리 알고 들어가면 준비가 달라집니다.</div>
+    <div class="section-desc" style="margin-bottom:1rem;">평가 결과를 받은 팀원은 대부분 아래 다섯 가지를 생각합니다. 미리 알고 들어가면 준비가 달라집니다.</div>
     <div class="q-list">
       <div class="q-item">
         <div class="q-quote">"나는 공정하게 평가받았나?"</div>
@@ -443,10 +443,6 @@
       <div class="q-item">
         <div class="q-quote">"내 노력이 제대로 보였나?"</div>
         <div class="q-ans">과정과 달성도를 리더가 직접 언급해야 <strong>"아, 보고 있었구나"</strong>를 느낍니다.</div>
-      </div>
-      <div class="q-item">
-        <div class="q-quote">"이 등급이 연봉·승진에 영향 주나?"</div>
-        <div class="q-ans">피플팀 공식 안내 전에는 확답을 피하세요. <strong>"공식 안내 예정"</strong>으로 선을 긋는 것이 맞습니다.</div>
       </div>
       <div class="q-item">
         <div class="q-quote">"나만 낮은 건 아닌가?"</div>
@@ -458,14 +454,14 @@
       </div>
       <div class="q-item">
         <div class="q-quote">"앞으로 어떻게 해야 하지?"</div>
-        <div class="q-ans">다음 단계 기대치를 <strong>1~2가지 구체적으로</strong> 짚어주는 게 면담의 핵심 마무리입니다.</div>
+        <div class="q-ans">다음 단계 기대치를 <strong>1~2가지 구체적으로</strong> 짚어주는 게 피드백의 핵심 마무리입니다.</div>
       </div>
     </div>
 
     <div class="divider"></div>
 
-    <!-- 면담 전 체크리스트 -->
-    <div class="sub-title">✅ 면담 전 체크리스트</div>
+    <!-- 피드백 전 체크리스트 -->
+    <div class="sub-title">✅ 피드백 전 체크리스트</div>
     <div class="checklist">
       <div class="check-item" onclick="toggleCheck(this)">
         <div class="check-header">
@@ -485,7 +481,7 @@
         </div>
         <div class="check-body">
           · 캘리브레이션 후 등급이 바뀌었다면 피드백도 반드시 수정<br>
-          <span class="no">✗ "나는 좋은 등급 주려 했는데 회사가 조정했다"는 말은 팀원 앞에서 꺼내지 마세요. 신뢰만 무너집니다</span>
+          <span class="no">✗ "나는 좋은 등급 주려 했는데 회사가 조정했다"는 말은 팀원 앞에서 꺼내지 마세요. 회사와 리더에 대한 신뢰만 무너집니다.</span>
         </div>
       </div>
       <div class="check-item" onclick="toggleCheck(this)">
@@ -495,7 +491,7 @@
         </div>
         <div class="check-body">
           · 동료·상향·셀프 평가 내용을 미리 읽되, 리더 본인 판단을 먼저 정리한 뒤 참고<br>
-          <span class="no">✗ 동료·상향 평가 내용을 그대로 읽어주지 마세요</span>
+          <span class="no">✗ 동료·상향 평가 내용을 그대로 읽어주지 마세요. 한 번 필터링이 필요합니다. 누가 썼는지 유추할 수 있는 멘트, 직접적인 비난은 바로 읽으면 안 됩니다.</span>
         </div>
       </div>
       <div class="check-item" onclick="toggleCheck(this)">
@@ -516,7 +512,7 @@
         </div>
         <div class="check-body">
           · 독립 회의실 예약 필수<br>
-          <span class="no">✗ 복도, 카페, 공용 공간 — 주변 시선이 있으면 솔직한 대화가 나오기 어렵습니다</span>
+          <span class="no">✗ 복도, 카페, 공용 공간등 주변 시선이 있는 곳에서는 솔직한 대화가 나오기 어렵습니다</span>
         </div>
       </div>
       <div class="check-item" onclick="toggleCheck(this)">
@@ -526,7 +522,7 @@
         </div>
         <div class="check-body">
           · 1인당 최소 30분, 여유 있게 45분<br>
-          · 면담을 몰아서 잡지 말고 간격을 두세요<br>
+          · 피드백을 몰아서 잡지 말고 간격을 두세요<br>
           <span class="no">✗ 서두르면 팀원은 "형식적이다"라고 느낍니다</span>
         </div>
       </div>
@@ -537,24 +533,24 @@
         </div>
         <div class="check-body">
           · 휴대폰 무음, 노트북으로 다른 업무 하지 않기<br>
-          · 사소해 보여도 팀원은 이런 디테일을 기억합니다
+          · 팀원 입장에서는 중요한 순간입니다. 사소해보여도 중요한 부분이니, 집중하는 디테일을 보여주세요
         </div>
       </div>
     </div>
   </div>
 
-  <!-- ══════ 2. 면담 진행 ══════ -->
+  <!-- ══════ 2. 피드백 진행 ══════ -->
   <div class="section" id="during">
     <div class="section-label">02 — 평가 중</div>
-    <div class="section-title">면담 진행하기</div>
-    <div class="section-desc">4단계 흐름을 지키면 어떤 등급이든 건설적으로 전달할 수 있습니다. 특히 대화·경청 구간이 면담의 실질적인 핵심입니다.</div>
+    <div class="section-title">피드백 진행하기</div>
+    <div class="section-desc">4단계 흐름을 지키면 어떤 등급이든 건설적으로 전달할 수 있습니다. 특히 대화·경청 구간이 피드백의 실질적인 핵심입니다.</div>
 
     <div class="flow">
       <div class="flow-step">
         <div class="flow-num">STEP 01</div>
         <div class="flow-time">⏱ 5분</div>
         <div class="flow-title">오프닝</div>
-        <div class="flow-desc">긴장 풀어주기. 오늘 면담이 어떤 자리인지 짧게 안내.</div>
+        <div class="flow-desc">긴장 풀어주기. 오늘 피드백이 어떤 자리인지 짧게 안내.</div>
         <div class="flow-quote">"오늘은 한 해 수고 많으셨다는 이야기를 편하게 나누고 싶어요."</div>
       </div>
       <div class="flow-step">
@@ -583,7 +579,7 @@
     <div class="divider"></div>
 
     <!-- 등급별 전략 -->
-    <div class="sub-title">🎯 등급별 면담 전략 + 스크립트</div>
+    <div class="sub-title">🎯 등급별 피드백 전략 + 스크립트</div>
     <div class="section-desc" style="margin-bottom:1rem;">등급이 다르면 팀원의 심리 상태도 다릅니다. 접근 방식을 달리하세요.</div>
 
     <div class="tab-bar">
@@ -609,7 +605,7 @@
           <div class="dont-label">✗ 피하세요</div>
           <ul>
             <li>이 정도는 당연하다는 뉘앙스</li>
-            <li>보상 이야기만 하는 면담</li>
+            <li>보상 이야기만 하는 피드백</li>
             <li>구체적인 내용 없이 칭찬만</li>
           </ul>
         </div>
@@ -687,13 +683,13 @@
           <ul>
             <li>감정적 표현, 부정적 추측</li>
             <li>"앞으로도 이럴 것" 단정</li>
-            <li>일방 통보 후 면담 종료</li>
+            <li>일방 통보 후 피드백 종료</li>
           </ul>
         </div>
       </div>
       <div class="script-box">
         <div class="script-label">💬 스크립트</div>
-        <div class="script-text">"오늘 면담이 부담스러울 수 있다는 거 알아요. 그래도 솔직하게 나눠야 ○○님한테도 도움이 될 것 같아서요."<br><br><em>전환 →</em> "지적이 아니라 같이 방향을 찾아보자는 거예요. ○○님은 이 부분에서 어떤 어려움이 있었는지 먼저 말씀해 주실 수 있어요?"</div>
+        <div class="script-text">"오늘 피드백이 부담스러울 수 있다는 거 알아요. 그래도 솔직하게 나눠야 ○○님한테도 도움이 될 것 같아서요."<br><br><em>전환 →</em> "지적이 아니라 같이 방향을 찾아보자는 거예요. ○○님은 이 부분에서 어떤 어려움이 있었는지 먼저 말씀해 주실 수 있어요?"</div>
       </div>
     </div>
 
@@ -704,7 +700,7 @@
           <ul>
             <li>성과·과정 모두 구체적 사례로 전달</li>
             <li>개선 요구사항 명확히</li>
-            <li>피플팀과 사전 협의 후 면담 진행</li>
+            <li>피플팀과 사전 협의 후 피드백 진행</li>
             <li>기록 관리 철저히</li>
           </ul>
         </div>
@@ -713,7 +709,7 @@
           <ul>
             <li>두루뭉술한 표현으로 돌려 말하기</li>
             <li>감정적·추측성 코멘트</li>
-            <li>"구체 피드백은 면담으로 대체"</li>
+            <li>"구체 피드백은 피드백으로 대체"</li>
           </ul>
         </div>
       </div>
@@ -793,7 +789,7 @@
           <div class="type-danger-label">❌ 이러면 안 됩니다</div>
           <div class="type-danger-box">
             <strong>방어 모드:</strong> "상대평가라서 누군가는 B를 받아야 해서요…" → 리더의 무력감만 드러납니다<br>
-            <strong>팩트 폭행:</strong> "OO 프로젝트 일정 못 맞추셨잖아요" → 면담이 청문회로 변합니다
+            <strong>팩트 폭행:</strong> "OO 프로젝트 일정 못 맞추셨잖아요" → 피드백이 청문회로 변합니다
           </div>
           <div class="type-good-label">✅ 리프레이밍으로 방어기제 풀기</div>
           <div class="step-list">
@@ -836,7 +832,7 @@
           <div class="type-danger-label">❌ 이러면 안 됩니다</div>
           <div class="type-danger-box">
             침묵을 동의로 해석하면 안 됩니다. 속으로는 체념했거나 이미 이직을 고민 중일 수 있습니다.<br>
-            <strong>"특별히 할 말 없으면 이만 마칠게요."</strong> — 면담이 잘 끝난 것처럼 보이지만, 3개월 후 갑작스러운 퇴사 통보로 돌아올 수 있습니다.
+            <strong>"특별히 할 말 없으면 이만 마칠게요."</strong> — 피드백이 잘 끝난 것처럼 보이지만, 3개월 후 갑작스러운 퇴사 통보로 돌아올 수 있습니다.
           </div>
           <div class="type-good-label">✅ 안전한 대화 공간 만들기</div>
           <div class="step-list">
@@ -939,7 +935,7 @@
 
     <!-- 돌발 상황 -->
     <div style="margin-top: 1.75rem;">
-      <div class="sub-title">🚨 면담 중 감정이 격해진다면?</div>
+      <div class="sub-title">🚨 피드백 중 감정이 격해진다면?</div>
       <div class="alert danger">
         <div class="alert-label">❌ 하지 마세요</div>
         "너무 속상해하지 마세요. 피플팀과 다시 한번 논의해보겠습니다"<br>
@@ -991,13 +987,13 @@
         <div class="faq-q" onclick="toggleFaq('faq4')">"이 등급이면 연봉·승진에 영향이 있나요?" <span class="faq-chevron">▾</span></div>
         <div class="faq-a">
           <strong>① 선 긋기:</strong> "보상 연계 기준은 피플팀에서 별도 안내 예정이에요."<br>
-          <strong>② 초점 전환:</strong> "오늘 면담은 성장 방향 이야기에 집중할게요."<br>
+          <strong>② 초점 전환:</strong> "오늘 피드백은 성장 방향 이야기에 집중할게요."<br>
           <strong>③ 절대 금지:</strong> 피플팀 공식 발표 전 개인 추정 언급 금지<br>
           <span class="warn-tag">⚠ 확답 금지 — 피플팀 공식 안내 전</span>
         </div>
       </div>
       <div class="faq-item" id="faq5">
-        <div class="faq-q" onclick="toggleFaq('faq5')">"면담이 형식적인 것 같아요. 어차피 바뀌지 않잖아요." <span class="faq-chevron">▾</span></div>
+        <div class="faq-q" onclick="toggleFaq('faq5')">"피드백이 형식적인 것 같아요. 어차피 바뀌지 않잖아요." <span class="faq-chevron">▾</span></div>
         <div class="faq-a">
           <strong>① 공감:</strong> "그런 생각이 드셨다면, 제가 더 잘 설명했어야 했어요."<br>
           <strong>② 피드백 구체화:</strong> 어떤 부분이 형식적으로 느껴졌는지 되물어보기<br>
@@ -1007,16 +1003,16 @@
     </div>
   </div>
 
-  <!-- ══════ 5. 면담 후 ══════ -->
+  <!-- ══════ 5. 피드백 후 ══════ -->
   <div class="section" id="after">
     <div class="section-label">05 — 평가 후</div>
     <div class="section-title">마무리하기</div>
-    <div class="section-desc">면담은 회의실을 나서는 순간으로 끝나지 않습니다. 피플팀 공유와 후속 관리까지 완료해야 진짜 마무리입니다.</div>
+    <div class="section-desc">피드백은 회의실을 나서는 순간으로 끝나지 않습니다. 피플팀 공유와 후속 관리까지 완료해야 진짜 마무리입니다.</div>
 
     <div class="process-row">
       <div class="process-step">
         <div class="process-icon">💬</div>
-        <div class="process-title">면담 완료</div>
+        <div class="process-title">피드백 완료</div>
         <div class="process-desc">팀원 확인 (서명 또는 구두), 특이사항 메모</div>
       </div>
       <div class="process-step">
@@ -1027,7 +1023,7 @@
       <div class="process-step">
         <div class="process-icon">📤</div>
         <div class="process-title">피플팀 공유</div>
-        <div class="process-desc">면담 완료 여부, 이슈 팀원 보고, 피드백 수정 완료 확인</div>
+        <div class="process-desc">피드백 완료 여부, 이슈 팀원 보고, 피드백 수정 완료 확인</div>
       </div>
       <div class="process-step">
         <div class="process-icon">🔄</div>
@@ -1068,8 +1064,8 @@
 </div>
 
 <footer>
-  <strong>비바웨이브 피플팀</strong> · 평가 면담 가이드<br>
-  면담 준비 중 추가 문의는 피플팀으로 연락해 주세요.
+  <strong>비바웨이브 피플팀</strong> · 평가 피드백 가이드<br>
+  피드백 준비 중 추가 문의는 피플팀으로 연락해 주세요.
 </footer>
 
 <script>
